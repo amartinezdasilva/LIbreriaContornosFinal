@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Aaron
+ * @author Aaron Martinez
  */
 public class ProyectoLibreria {
 
